@@ -1,1 +1,1 @@
-# -Optimal-Navigation-with-Dynamic-Programming
+# Optimal-Navigation-with-Dynamic-Programming
