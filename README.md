@@ -9,6 +9,12 @@ In this task, an agent (robot) must navigate through a maze of walls and doors, 
 
 The code produces optimal policies and visualizes agent trajectories.
 
+## Examples
+Known Map Trajectories
+<p align="center"> <img src="starter_code/gif/doorkey-5x5-normal.gif" width="300"> <img src="starter_code/gif/doorkey-6x6-direct.gif" width="300"> <img src="starter_code/gif/doorkey-6x6-shortcut.gif" width="300"> </p>
+Random Map Trajectory
+<p align="center"> <img src="starter_code/gif/doorkey.gif" width="400"> </p>
+
 ## Project Structure
 
 ```
