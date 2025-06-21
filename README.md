@@ -1,8 +1,7 @@
 
 # Door & Key: Dynamic Programming for Robotic Navigation
 
-This project implements a **Dynamic Programming (Value Iteration)** solution to the **Door & Key navigation problem** in grid environments, as part of UCSD ECE 276B: Planning & Learning in Robotics.
-
+This project implements a **Dynamic Programming (Value Iteration)** solution to the **Door & Key navigation problem** in grid environments.
 In this task, an agent (robot) must navigate through a maze of walls and doors, collect a key if necessary, and unlock doors to reach the goal with minimal energy cost. The project casts the navigation task as a **Markov Decision Process (MDP)** and uses dynamic programming to compute optimal control policies for two scenarios:
 
 1. **Known Map:** Environment fully known.
@@ -27,8 +26,10 @@ The code produces optimal policies and visualizes agent trajectories.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/your_repo_name.git
-cd your_repo_name
+git clone https://github.com/ivanlin328/Door-Key-Dynamic-Programming-for-Robotic-Navigation
+.git
+cd Door-Key-Dynamic-Programming-for-Robotic-Navigation
+
 ```
 
 2. (Optional but recommended) Create a virtual environment:
